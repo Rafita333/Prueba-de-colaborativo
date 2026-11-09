@@ -2,3 +2,16 @@ Rafael primera prueba de trabajo colaborativo
 intento de fallo por colision de codigo
 skfmsdksdf
 Segunda prueba funciono solo con pull traes los cambios
+
+
+
+RAMA DE JUAN: SEGUNDA PRUEBA MANTENER LOS CAMBIOS DE ALGUIEN SIN AFECTAR
+hola
+me 
+llamo
+Rafael
+antonio
+burgos
+chi
+
+parte importante del codigo (mantener)
