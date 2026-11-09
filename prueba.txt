@@ -1,4 +1,4 @@
 Rafael primera prueba de trabajo colaborativo
-intento de colicion de juan
+intento de fallo por colision de codigo
 skfmsdksdf
-colision 2
+Segunda prueba funciono solo con pull traes los cambios
