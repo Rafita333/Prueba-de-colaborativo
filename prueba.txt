@@ -5,3 +5,16 @@ Segunda prueba funciono solo con pull traes los cambios
 intento de colicion de juan
 skfmsdksdf
 colision 2
+
+
+
+RAMA DE JUAN: SEGUNDA PRUEBA MANTENER LOS CAMBIOS DE ALGUIEN SIN AFECTAR
+hola
+me 
+llamo
+Rafael
+antonio
+burgos
+chi
+
+parte importante del codigo (mantener)
