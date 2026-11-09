@@ -18,3 +18,12 @@ burgos
 chi
 
 parte importante del codigo (mantener)
+
+
+
+segunda prueba
+amarillo
+rojo
+verde
+azul
+python
